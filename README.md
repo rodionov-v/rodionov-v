@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋😺
+[![linkedin badge](https://img.shields.io/badge/Victor%20Rodionov-Mah?color=blue&&logo=linkedin)](https://www.linkedin.com/in/victor-rodionov/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rodionov-v.visitor-badge)
 
 <!--
 **rodionov-v/rodionov-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
